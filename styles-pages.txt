@@ -1,0 +1,4 @@
+En ce qui concerne la présentation, le fond d'écran sera gris transparents à motifs.
+La barre de navigation sera de couleur bleu avec motifs en filigrane.
+La navigation se fera sous forme de liens textuels et icones.
+Le footer sera de la même couleur que la barre de navigation.
